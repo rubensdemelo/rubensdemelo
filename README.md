@@ -8,7 +8,6 @@ Skills: Flutter / Dart / Firebase
 - 🌱 I’m currently learning **AWS Amplify**. 
 - 👯 I’m looking to collaborate on any packages in ***pub.dev***. 
 - 🤔 I’m looking for help with **Typescript** 
-- 📫 How to reach me: rubensdemelo@gmail.com 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I work with mainframe 
 
