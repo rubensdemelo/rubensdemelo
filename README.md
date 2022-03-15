@@ -4,7 +4,7 @@ I like to code, learn new things, and share my knowledge.
 
 Skills: Flutter / Dart / Firebase 
 
-- 🔭 I’m currently working on www.flutterparainiciantes.com.br 
+- 🔭 I’m currently working on https://flutterparainiciantes.com.br/
 - 🌱 I’m currently learning **AWS Amplify**. 
 - 👯 I’m looking to collaborate on any packages in ***pub.dev***. 
 - 🤔 I’m looking for help with **Typescript** 
