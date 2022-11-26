@@ -11,5 +11,9 @@ Skills: Flutter / Dart / Firebase
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I work with mainframe 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rubensdemelo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rubensdemelo.dev)  
+<p align="center">
+<a href="https://github.com/rubensdemelo">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=rubensdemelo&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="salihgueler"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubensdemelo&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="salihgueler"/>
+</a>
+</p>
