@@ -19,12 +19,6 @@ projects:
   - name: brazil_datetime
     description: useful brazilian extensions for DateTime
     url: https://pub.dev/packages/brasil_datetime
-social:
-  - github: here
-  - twitter: https://twitter.com/rubensdemelo
-  - youtube: https://www.youtube.com/rubensdemelo/
-  - linkedin: https://www.linkedin.com/in/rubensdemelo/
-  - instagram: https://www.instagram.com/rubensdemelo/
 ```
 
 <p align="center">
