@@ -1,6 +1,6 @@
 ```yaml
 name: rubens de melo
-about: db2 z/os admin, cobol & java developer, flutter enthusiast
+about: z/os sysplex, cobol & java developer, flutter enthusiast
 from: brazil
 based: sofia-bg
 projects:
