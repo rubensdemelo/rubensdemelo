@@ -2,7 +2,7 @@
 name: rubens de melo
 about: db2 z/os admin, cobol & java developer, flutter enthusiast
 from: brazil
-based: sofia
+based: sofia-bg
 projects:
   - name: motoca
     description: an app for bikers
