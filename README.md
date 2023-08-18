@@ -1,6 +1,6 @@
 ```yaml
 name: rubens de melo
-about: z/os sysplex, cobol & java developer, flutter enthusiast
+about: z/os sysplex, cobol & java developer, flutter expert
 from: brazil
 based: sofia-bg
 projects:
