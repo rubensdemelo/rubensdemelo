@@ -5,19 +5,14 @@ from: brazil
 based: sofia-bg
 projects:
   - name: motoca
-    description: an app for bikers
     url: https://motoca.app
   - name: flutter bootcamp
-    description: a complete flutter training
     url: https://flutterbootcamp.com.br
   - name: flutter para iniciantes
-    description: a beginners book about flutter
     url: https://flutterparainiciantes.com.br
   - name: brazil_fields
-    description: set of brazilian formatters
     url: https://pub.dev/packages/brasil_fields
   - name: brazil_datetime
-    description: useful brazilian extensions for DateTime
     url: https://pub.dev/packages/brasil_datetime
 ```
 
