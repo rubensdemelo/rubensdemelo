@@ -1,19 +1,15 @@
 ```yaml
 name: rubens de melo
-about: z/OS sysplex, cobol & java developer, flutter expert
+about: IBM z/OS sysplex, cobol & java developer, flutter expert
 from: brazil
 based: sofia-bg
 projects:
-  - name: motoca
-    url: https://motoca.app
-  - name: flutter bootcamp
-    url: https://flutterbootcamp.com.br
-  - name: flutter para iniciantes
-    url: https://flutterparainiciantes.com.br
-  - name: brazil_fields
-    url: https://pub.dev/packages/brasil_fields
-  - name: brazil_datetime
-    url: https://pub.dev/packages/brasil_datetime
+  - url: https://motoca.app
+  - url: https://flutterbootcamp.com.br
+  - url: https://flutterparainiciantes.com.br
+  - url: https://pub.dev/packages/brasil_fields
+  - url: https://pub.dev/packages/brasil_datetime
+    
 ```
 
 <p align="center">
